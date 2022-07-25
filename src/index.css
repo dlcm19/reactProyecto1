@@ -25,6 +25,7 @@ body{
 }
 .button{
     border: none;
+    color: #fff;
     width: 50px;
     aspect-ratio: 1;
     font-size: 2rem;

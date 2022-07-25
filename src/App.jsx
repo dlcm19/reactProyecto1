@@ -35,6 +35,7 @@ function App() {
  const randomAll = () => {
    phrase = randomElements(phrases)
    colors = randomElements(arrayColors)
+
    setrandomPhrase(phrase)
    setrandomColor(colors)
  }
