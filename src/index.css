@@ -36,3 +36,14 @@ body{
 .button:active{
     transform: scale(0.9);
 }
+@media (max-width:540px){
+    .author{
+        margin-left: 50px;
+        margin-top: 30px;
+        
+    }
+    .button{
+        margin-left: 80px;
+        margin-top: 30px;  
+    }
+}
